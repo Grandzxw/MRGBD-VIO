@@ -7,7 +7,7 @@ Ubuntu 16.04. ROS Kinetic, [ROS Installation](http://wiki.ros.org/indigo/Install
 additional ROS pacakge
 
 ```
-	 sudo apt install ros-Kinetic-desktop-full
+    sudo apt install ros-Kinetic-desktop-full
 ```
 
 1.2 **Opencv3**
@@ -24,7 +24,7 @@ Follow [Ceres Installation](http://ceres-solver.org/installation.html), remember
     git clone http://github.com/strasdat/Sophus.git
 ```
 
-## 2. Build MRGBD-VIO-VIO on ROS
+## 2. Build MRGBD-VIO on ROS
 Clone the repository and catkin_make:
 ```
     cd ~/catkin_ws/src
@@ -41,7 +41,10 @@ Clone the repository and catkin_make:
   roslaunch vins_estimator vins_rviz.launch
   rosbag play bagname.bag
 ```
+## 4.Run on OpenLORIS dataset
 
-## 4. Licence
++ [OpenLORIS](https://github.com/lifelong-robotic-vision/lifelong-slam)
+
+## 5. Licence
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
 
