@@ -41,7 +41,7 @@ Clone the repository and catkin_make:
   roslaunch vins_estimator vins_rviz.launch
   rosbag play bagname.bag
 ```
-## 4.Run on OpenLORIS dataset
+## 4. OpenLORIS dataset
 
 + [OpenLORIS](https://github.com/lifelong-robotic-vision/lifelong-slam)
 
