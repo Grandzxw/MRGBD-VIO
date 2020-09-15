@@ -1,7 +1,5 @@
 # MRGBD-VIO
-##A Multi-Feature tightly-coupled RGB-D visual-inertial SLAM system.
-
-The proposed system is the first tightly coupled optimization-based RGB-D-inertial system based on multi-features.This system is runs on **Linux** and **ROS**.
+A Multi-Feature tightly-coupled RGB-D visual-inertial SLAM system. The proposed system is the first tightly coupled optimization-based RGB-D-inertial system based on multi-features. This system is runs on **Linux** and **ROS**.
 
 ## 1. Prerequisites
 1.1 **Ubuntu** and **ROS**
