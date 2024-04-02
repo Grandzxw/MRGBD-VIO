@@ -45,6 +45,21 @@ Clone the repository and catkin_make:
 
 + [OpenLORIS](https://github.com/lifelong-robotic-vision/lifelong-slam)
 
-## 5. Licence
+## 5. Citation
+```
+@article{zhao2020multi,
+  title={Multi-Feature Nonlinear Optimization Motion Estimation Based on RGB-D and Inertial Fusion},
+  author={Zhao, Xiongwei and Miao, Cunxiao and Zhang, He},
+  journal={Sensors},
+  volume={20},
+  number={17},
+  pages={4666},
+  year={2020},
+  publisher={MDPI}
+}
+```
+
+
+## 6. Licence
 The source code is released under [GPLv3](http://www.gnu.org/licenses/) license.
 
